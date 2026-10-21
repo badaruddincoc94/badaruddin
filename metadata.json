@@ -1,0 +1,6 @@
+{
+  "name": "RPP & RPM Generator STEAM - Kurikulum Merdeka",
+  "description": "Generator Perencanaan Pembelajaran Mendalam (RPM/RPP) terintegrasi STEAM untuk semua jenjang dan mata pelajaran lengkap dengan LKPD dan ekspor Microsoft Word (.docx). Dibuat Oleh Badaruddin, S.Pd., M.Pd., Gr.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
